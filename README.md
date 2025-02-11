@@ -7,6 +7,6 @@
  ![SQL] <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 
 
-<img src="https://camo.githubusercontent.com/e00a03ad717836eecaa236f732869bff3db39bc9900c9e90159dd89cafd87577/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4d796c6c657225323054656978656972612d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="[https://img.shields.io/badge/LinkedIn-Myller%20Teixeira-blue?style=flat&amp;logo=linkedin](https://www.linkedin.com/in/eduardo--martins/)" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/e00a03ad717836eecaa236f732869bff3db39bc9900c9e90159dd89cafd87577/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d4d796c6c657225323054656978656972612d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="[https://img.shields.io/badge/(https://www.linkedin.com/in/eduardo--martins/)]" style="max-width: 100%;">
 
 📧 <a href="mailto:eduardo.martins12399@gmail.com">eduardo.martins12399@gmail.com</a>
