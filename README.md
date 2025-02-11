@@ -8,4 +8,7 @@
 
 📋 Entre em contato!! 👇
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+
+
 📧 <a href="mailto:eduardo.martins12399@gmail.com">eduardo.martins12399@gmail.com</a>
