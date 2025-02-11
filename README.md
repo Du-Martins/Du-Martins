@@ -11,4 +11,5 @@
 
 
 📧 <a href="mailto:eduardo.martins12399@gmail.com">eduardo.martins12399@gmail.com</a>
-📲 linkedin <https://www.linkedin.com/in/eduardo--martins/> 
+📲 linkedin 
+<https://www.linkedin.com/in/eduardo--martins/> 
